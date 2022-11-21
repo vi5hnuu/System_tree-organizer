@@ -3,6 +3,7 @@ const fs = require('fs')
 const path = require('path')
 const types = require('./utility')
 //node main.js tree "directory path"
+//node main.js tree
 //node main.js organize "directory path"
 //node main.js help
 
