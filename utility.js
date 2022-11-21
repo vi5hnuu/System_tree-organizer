@@ -6,4 +6,4 @@ utility.types = {
     app: ['exe', 'dmg', 'pkg', "deb", "msi"],
     images: ['png', 'jpeg']
 }
-module.exports = utility;
+module.exports = utility.types;

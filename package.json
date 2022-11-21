@@ -1,0 +1,22 @@
+{
+  "name": "file-tree",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vi5hnuu/System_tree-organizer.git"
+  },
+  "author": "vi5hnu",
+  "license": "ISC",
+  "bin": {
+    "sysTree": "main.js"
+  },
+  "bugs": {
+    "url": "https://github.com/vi5hnuu/System_tree-organizer/issues"
+  },
+  "homepage": "https://github.com/vi5hnuu/System_tree-organizer#readme"
+}
